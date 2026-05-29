@@ -1,11 +1,5 @@
 {
   "versao": "2.0.5",
   "url_download": "https://github.com/daniloeditor1-dev/Nexus-V2-Releases/releases/download/v2.0.5/Setup_Nexus_Downloader.exe",
-  "notas": "🚀 Novidades da Atualização
-🔑 Login Descomplicado: Não importa mais se você digitou maiúscula ou minúscula, o sistema reconhece o seu login de primeira.
-🛡️ Segurança Aprimorada (Anti-Bloqueio): Melhoramos nosso sistema de verificação de máquina. Isso reduz drasticamente falsos erros de "computador não reconhecido" e mantém seu acesso sempre garantido.
-🔄 Novo Sistema de Atualização: Agora o aplicativo verifica se há atualizações antes de pedir o login. Você será avisado na tela e poderá escolher se quer atualizar na hora ou pular e continuar usando a versão atual.
-🗑️ Histórico Mais Inteligente: Sabe quando você apagava o arquivo do seu computador mas ele continuava aparecendo como "Concluído" (verdinho) no app? Resolvemos isso! Agora o aplicativo faz uma verificação real de arquivos excluídos.
-🧹 Layout Mais Limpo: Ajustamos a organização dos botões. O botão "Limpar Concluídos" foi movido para o topo para evitar cliques acidentais perto da área de downloads.
-"
+  "notas": "Novas atualizações e melhorias"
 }
