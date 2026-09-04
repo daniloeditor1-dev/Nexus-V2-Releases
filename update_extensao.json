@@ -1,5 +1,11 @@
 {
-  "versao": "2.0.0",
-  "url_download": "https://www.nexusdownloader.com/",
-  "notas": "Nova versão da Extensão Nexus com melhorias e suporte ao DaVinci Resolve."
+  "versao": "2.0.1",
+  "data": "2026-09-04",
+  "site": "https://www.nexusdownloader.com/",
+  "url_zip": "https://github.com/daniloeditor1-dev/Nexus-V2-Releases/raw/main/Extensao_Nexus.zip",
+  "changelog": [
+    "Nova funcionalidade de download acelerado",
+    "Melhorias na integração com DaVinci Resolve",
+    "Atualização automática em 1-clique"
+  ]
 }
